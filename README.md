@@ -10,7 +10,7 @@ Add the project file to Qt Creator and open the project.
 Compile and run the project.
 
 !Note: To successfully run the project, Qt Creator and the necessary libraries must be installed on your computer.
-The food folder and images must be on the desktop for the project to work.
+The food folder and images in the Project-Group4.rar file must be on the desktop for the project to work.
 
 #Project Purpose
 
