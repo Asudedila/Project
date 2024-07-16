@@ -31,4 +31,3 @@ When you don't know what to cook, our project will help you at this point. You w
 #Contributing Team Members
 -Asude Dila Açıkgöz: Coding of the solve,Recipe,Food Category module and its subclasses.
 -Hatice Çam: Writing the GUI part on Qt. All aspects related to the user interface.
--Other Members  Ali Batuhan Zeytun Eda Göçer Selin Ergin :File organization and working on missing parts.
