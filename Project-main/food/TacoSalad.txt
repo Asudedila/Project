@@ -1,0 +1,10 @@
+BEEF,LETTUCE,TOMATO,CHEESE,AVOCADO,ONION
+Taco Salad
+1 pound ground beef,1 head lettuce,1 cup tomatoes,1 cup cheddar cheese,1 avocado,1/2 onion,Salt and pepper to taste
+In a skillet over medium heat, cook the beef. Let it simmer until the meat is thoroughly cooked.
+While the meat is cooking, prepare your taco toppings. Shred the lettuce, dice the tomatoes, shred the cheddar cheese,dice the avocado, and finely chop the red onion.
+When taco meat is ready, fill each taco shell with a spoonful of the cooked ground beef. Then, add the shredded lettuce, diced tomatoes, shredded cheddar cheese, diced avocado, and chopped red onion on top of the meat.
+Add salt and pepper as desired.
+
+
+

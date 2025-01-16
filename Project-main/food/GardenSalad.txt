@@ -1,0 +1,8 @@
+LETTUCE,SPINACH,TOMATO,CUCUMBER,ONION,PEPPER,LEMON,OLIVE,OIL
+Garden Salad
+1 small head lettuce,1 small head spinach,2 cups cherry tomatoes,1 cucumber,½ onion,1 bell pepper,1 cup olives,Oil and lemon juice (optional) 
+Wash and chop the lettuce, spinach  leaves thoroughly. Place them in a large salad bowl.
+Wash the cherry tomatoes and cut them in half. Add them to the salad bowl.
+Wash and slice the cucumber. Thinly slice the red onion. Chop the bell pepper and add them to the salad bowl.
+Add the olives and gently mix all the ingredients together.
+Optionally, you can drizzle a dressing made with olive oil and lemon juice.

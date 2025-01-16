@@ -1,0 +1,11 @@
+SUGAR,BUTTER,EGG,VANILLA,FLOUR,BAKINGPOWDER,MILK
+Cake
+1 cup white sugar,½ cup unsalted butter,2 large eggs,2 teaspoons vanilla extract,1 cup flour,1 teaspoons baking powder,½ cup milk
+Gather all ingredients.
+Cream sugar and butter together in a mixing bowl. 
+Add eggs, one at a time, beating briefly after each addition. Mix in vanilla.
+Combine flour and baking powder in a separate bowl. Add to the wet ingredients and mix well. 
+Add milk and stir until smooth.
+Bake in the preheated oven until the top springs back when lightly touched, 30 to 40 minutes.
+Remove from the oven and cool completely. Enjoy!
+

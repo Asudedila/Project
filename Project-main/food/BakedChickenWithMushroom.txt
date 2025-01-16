@@ -1,0 +1,13 @@
+CHICKEN,MUSHROOM,GARLIC,OIL,PARSLEY,OREGANO
+Baked Chicken with Mushroom
+4 boneless skinless chicken breasts,450g mushrooms, sliced,1/2 cup (120ml) chicken broth,3 cloves garlic, minced,2 tablespoons olive oil,1 teaspoon dried oregano,Salt and black pepper, to taste,Fresh parsley, chopped, for garnish
+Preheat your oven to 375°F (190°C).
+Season the chicken breasts with salt, black pepper, dried oregano.
+In an oven-safe skillet, heat olive oil over medium-high heat.
+Add the chicken breasts and sear on each side until golden brown, about 2-3 minutes per side.
+Remove the chicken from the skillet and set aside.
+In the same skillet, add sliced mushrooms and garlic. Sauté until the mushrooms are tender.
+Deglaze the pan with white wine (if using) and chicken broth, scraping up any browned bits from the bottom.
+Return the seared chicken breasts to the skillet, nestling them into the mushroom mixture.
+Bake in the preheated oven for about 20-25 minutes or until the chicken is cooked through.
+Garnish with fresh chopped parsley before serving.

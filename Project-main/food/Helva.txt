@@ -1,0 +1,8 @@
+BUTTER,FLOUR,SUGAR,MILK,ALMOND,CINNAMON
+Helva
+1/2 cup butter,1 cup flour,1 cup sugar,1 milk,2 cups almonds,2 teaspoons cinnamon
+In a medium pot over medium heat, melt the butter. Whisk in the flour.
+Meanwhile, in a medium pot, combine sugar, water, and milk. Heat them until its boil.
+When flour mixture is toasted and browned but not burned, slowly whisk in the warm milk mixture.
+Cover pot with a cloth and a lid, then let cool.
+Enjoy!

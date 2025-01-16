@@ -1,0 +1,10 @@
+MUSHROOM,ONION,GARLIC,FLOUR,OIL
+Mushroom Soup
+200g fresh mushrooms, sliced,1 onion, chopped,2 cloves of garlic, crushed,2 tablespoons oil,3 tablespoons flour
+In a pot, melt butter. Add chopped onion and crushed garlic, sauté until softened.
+Add mushrooms and cook until they release and reabsorb their liquid.
+Add flour and stir, cooking for a few more minutes.
+Pour in chicken broth or vegetable broth, bring to a boil. Then, reduce the heat and simmer until the mushrooms are fully cooked.
+Blend the soup until smooth.
+Season with salt and pepper. 
+Serve hot.

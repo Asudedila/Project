@@ -1,0 +1,9 @@
+BUTTER,SUGAR,EGG,BAKINGSODA,FLOUR,CHOCOLATE
+Cookie
+1 cup butter,1 cup white sugar,2 eggs,1 teaspoon baking soda,½ teaspoon salt,3 cups flour,2 cups chocolate chips
+Beat butter sugar with an electric mixer in a large bowl until smooth.
+Beat in eggs, one at a time, then stir.
+Stir in flour, chocolate chips and salt.
+Drop spoonfuls of dough 2 inches apart onto ungreased baking sheets.
+Bake in the preheated oven until edges are nicely browned, about 10 minutes.
+Store in an airtight container or serve immediately and enjoy!

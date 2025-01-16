@@ -1,0 +1,9 @@
+BROCCOLI,ONION,GARLIC,OIL
+Broccoli Soup
+1 head of broccoli, cut into small florets,1 onion, chopped,2 cloves of garlic, crushed,2 tablespoons oil
+In a pot, heat olive oil. Add chopped onion and crushed garlic, sauté until softened.
+Add broccoli and saute for a few more minutes.
+Pour in vegetable broth or chicken broth, bring to a boil.Then, reduce the heat and simmer until the broccoli is tender.
+Blend the soup until smooth.
+Season with salt and pepper.
+Serve hot.

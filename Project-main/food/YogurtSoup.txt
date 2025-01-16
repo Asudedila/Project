@@ -1,0 +1,10 @@
+YOGURT,FLOUR,EGG,OIL
+Yogurt Soup
+1 cup yogurt,2 tablespoons flour,1 egg yolk,1 tablespoon oil
+Start by toasting the flour in butter or oil over low heat until it develops a slight aroma.
+Add chicken broth or water to the toasted flour, stir, and bring it to a boil.
+In a separate bowl, mix yogurt with the egg yolk, whisking well.
+Take a ladle of the boiling soup and slowly add it to the yogurt mixture, stirring continuously (this helps prevent the yogurt from curdling when added to the hot soup).
+Pour the yogurt mixture back into the soup pot, stirring well, and let it come to a boil again.
+Add salt to taste and simmer for a few more minutes.
+Optionally, garnish with mint before serving.

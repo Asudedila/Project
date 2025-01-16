@@ -1,0 +1,8 @@
+BUTTER,FLOUR,MILK,EGG,CHOCOLATE,SUGAR
+Souffle
+2 tablespoon butter,½ cup flour,1 cup milk,3 eggs,1 cup chocolate,1/2 cup sugar
+Melt butter and chocolate together.
+After that, mix sugar and eggs.
+As a final step, combine all ingredients together.
+You can cook at 375 F in 15 minutes.
+Now, it is ready to serve. Enjoy!

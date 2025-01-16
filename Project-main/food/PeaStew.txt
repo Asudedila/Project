@@ -1,0 +1,12 @@
+PEA,ONION,CARROT,OIL,SUGAR,PARSLEY
+Pea Stew
+2 cups peas,1 medium-sized onion, chopped,1 carrot, sliced into rounds,2 tablespoons oil,1 cup water,1 teaspoon sugar,Salt and pepper, to taste,Fresh parsley (for garnish)
+Heat vegetable oil or butter in a pot.
+Add chopped onions and sauté until translucent.
+Add carrot slices and sauté for a few more minutes.
+Add peas and stir.
+Pour in water or chicken broth.
+Add sugar, salt, and pepper. Stir to combine.
+Cover the pot and simmer over medium heat until the vegetables are tender.
+Once the stew is cooked, garnish with fresh parsley.
+Serve the pea stew hot.

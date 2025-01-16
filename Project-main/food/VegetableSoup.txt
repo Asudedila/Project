@@ -1,0 +1,11 @@
+ONION,GARLIC,CARROT,POTATO,PEA,TOMATOPASTE,OIL
+Vegetable Soup
+1 onion,2 cloves of garlic,2 carrots,2 potatoes,1 cup peas (frozen or fresh),2 tablespoons oil,1 tablespoon tomato paste
+Dice the onion and garlic. Cut carrots, potatoes, and bell pepper into cubes.
+In a large pot, heat vegetable oil. Add diced onion and garlic, sauté until they become golden brown.
+Add diced carrots, potatoes, peas. Sauté for a few minutes.
+Add tomato paste, stir, and sauté for a couple more minutes.
+Pour water or vegetable broth over the vegetables. Bring it to a boil.
+Once boiling, reduce the heat, add salt and black pepper to taste, and simmer until the vegetables are tender.
+Optionally, you can use a blender to puree the soup for a smoother consistency.
+Serve hot.

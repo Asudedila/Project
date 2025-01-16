@@ -1,0 +1,7 @@
+SUGAR,FLOUR,MILK,BUTTER
+Pudding
+1 cup sugar,½ cup flour,4 cup milk,1 tablespoon butter
+Combine sugar, flour and milk in a pot.
+Heat them on the oven till it boils while stiring.
+After it boiled, add butter.
+Then serve.
